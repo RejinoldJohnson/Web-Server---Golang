@@ -18,3 +18,11 @@ Handles `POST` requests with form data. Accepts the following fields:
 - `name`: The user's name.
 - `address`: The user's address.
 
+### `/hello`
+Handles `GET` requests and responds with:
+hello!
+
+### Run the Server
+go run main.go
+
+### `Open your browser and navigate to http://localhost:8080`
